@@ -6,7 +6,6 @@ import { MdArrowForwardIos } from "react-icons/md";
 import { GrLocationPin } from "react-icons/gr";
 import { BiLink } from "react-icons/bi";
 import { GiPartyPopper } from "react-icons/gi";
-import { Link } from "react-router-dom";
 
 const Landing = () => {
   return (
